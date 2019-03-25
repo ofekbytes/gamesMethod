@@ -4,9 +4,8 @@
 package games.GameOne;
 
 /**
+ * interface --> cards value 
  * @author yaron
- * 
- * card value interface
  */
 public interface ICard 
 {

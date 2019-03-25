@@ -6,8 +6,8 @@ import java.util.Random;
 public class GameOne implements ICard
 {
 
-	private int playOne = 0;
-	private int playTwo = 0;	
+//	private int playOne = 0;
+//	private int playTwo = 0;	
 	
 	//constructor
 	public GameOne() 
