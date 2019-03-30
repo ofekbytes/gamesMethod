@@ -14,10 +14,12 @@ public class Games
 		System.out.println(" " + rc.generateRandomCard());
 	}
 	
+	
 	public static void main(String[] args) 
 	{
+		
 		Games games = new Games();
-
+		
 	}
 
 }
