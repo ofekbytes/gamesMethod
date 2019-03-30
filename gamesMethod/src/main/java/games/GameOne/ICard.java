@@ -4,7 +4,7 @@
 package games.GameOne;
 
 /**
- * interface --> cards value 
+ * interface --> cards value  
  * @author yaron
  */
 public interface ICard 
@@ -18,3 +18,9 @@ public interface ICard
 	public int intMaxNumber = 14;
 	
 }
+
+/***
+ * TODO
+ * ** make a enum list for card value (optional) 
+ */
+

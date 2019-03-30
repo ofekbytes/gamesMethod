@@ -12,6 +12,15 @@ public class GameOne implements ICard
 	//constructor
 	public GameOne() 
 	{
+		
+		/***
+		 * TODO
+		 * generate one card for each player (default 2 players)
+		 * save cards in array (object array)
+		 * player1card
+		 * player2card	
+		 */
+		
 //		generateRandomcard();
 		
 		for(int i=0; i<6; i++)
